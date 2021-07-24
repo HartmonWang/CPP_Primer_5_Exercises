@@ -3,6 +3,5 @@
 
 # 调试环境
 
-- Windows 10 x64
-- mingw64
-- g++ (10.3.0, -std=c++11)
+- WSL2 (ubuntu 20.04 LTS)
+- g++ version 9.3.0 (Ubuntu 9.3.0-17ubuntu1~20.04)
