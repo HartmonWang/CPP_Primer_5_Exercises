@@ -22,4 +22,6 @@ int main(void)
     // d             = 42;  // 非法;d是指向int的指针,不能直接赋值
     // e = 42;  // 非法;e是指向整型常量的指针,不能直接赋值
     // g = 42;  // 非法;g是一个整型常量的引用
+    // disable g++ warnings
+    cout << a << b << c << d << e << f << g << j << endl;
 }
